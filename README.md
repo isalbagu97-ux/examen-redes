@@ -31,6 +31,10 @@
 ## .conf de las webs
 <img width="734" height="485" alt="image" src="https://github.com/user-attachments/assets/3024267d-5fc3-45fd-ad06-7f23c4f31d63" />
 <img width="725" height="477" alt="image" src="https://github.com/user-attachments/assets/0ceafa49-4514-4947-a7d0-0fa854fd4528" />
+## comprobaciones de las paginas
+<img width="732" height="159" alt="image" src="https://github.com/user-attachments/assets/2a73c4a5-8c6f-449b-8d4f-677c36213db6" />
+<img width="656" height="149" alt="image" src="https://github.com/user-attachments/assets/c817388f-656f-47f8-a4ec-17a4a028d343" />
+
 ##creamos la parte de mantenimiento y su index.html
 <img width="736" height="22" alt="image" src="https://github.com/user-attachments/assets/3232b16a-728a-485a-b8f9-1c80c6b88389" />
 
